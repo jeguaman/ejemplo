@@ -10,5 +10,8 @@ package com.bce.fin.ec.ejemplogit;
  * @author jguaman
  */
 public class NewClass {
-    
+ 
+    public static void main(String[] args) {
+        
+    }
 }
